@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap);
+
+body {
+  font-family: 'Gochi Hand', handwriting;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  
+}
+li {
+    padding: 10px 15px;
+    background-color: antiquewhite;
+    margin-top: 35px;
+}
+
